@@ -1,7 +1,7 @@
 # Sample Python Code
 
 # Function to greet the user
-def greet_user(name):
+def greet_user(bikram):
     print(f"Hello, {name}! Welcome to Python.")
 
 # Function to calculate the sum of numbers in a list
