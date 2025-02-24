@@ -11,7 +11,7 @@ def calculate_sum(numbers):
 # Main function to run the program
 def main():
     # Get user input
-    user_name = input("Enter your name: ")
+    user_name = input("Enter your name bhakuda: ")
     greet_user(user_name)
 
     # List of numbers
